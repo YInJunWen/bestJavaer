@@ -1,0 +1,62 @@
+{
+  "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+  "version": "v1.1.0",
+  "entity": {
+    "type": "individual",
+    "role": "maintainer",
+    "name": "cxuan",
+    "email": "crisxuan158@gmail.com",
+    "description": "I am the maintainer of bestJavaer, a long-running open-source Chinese developer education repository. The project originally focused on Java, operating systems, computer networks, concurrency, JVM, MySQL, Spring and developer learning materials. It is now being evolved into cxuan-ai-labs, an open AI lab for Chinese-speaking developers focused on practical AI experiments, curated resources, reproducible workflows, and documented failure cases.",
+    "webpageUrl": {
+      "url": "https://github.com/crisxuan"
+    }
+  },
+  "projects": [
+    {
+      "guid": "bestjavaer",
+      "name": "bestJavaer / cxuan-ai-labs",
+      "description": "bestJavaer started as a Chinese open-source learning repository for Java developers, covering Java, operating systems, computer networks, concurrency, JVM, MySQL, Spring and developer career materials. It is now being evolved into cxuan-ai-labs: an open AI lab for Chinese-speaking developers, collecting AI articles, reproducible experiments, curated resources, AI-assisted development workflows and documented failure cases.",
+      "webpageUrl": {
+        "url": "https://github.com/crisxuan/bestJavaer"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/crisxuan/bestJavaer"
+      },
+      "licenses": [
+        "spdx:CC-BY-SA-4.0"
+      ],
+      "tags": [
+        "developer-tools",
+        "education",
+        "ai",
+        "documentation",
+        "open-source",
+        "chinese"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "email",
+        "type": "other",
+        "address": "crisxuan158@gmail.com",
+        "description": "Please contact the maintainer by email for grant paperwork, payment details and tax documentation."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "ai-lab-sustainability",
+        "status": "active",
+        "name": "Sustainability support for bestJavaer / cxuan-ai-labs",
+        "description": "One-time support to sustain the transition of bestJavaer into cxuan-ai-labs, including repository restructuring, open documentation, AI resource curation, reproducible AI experiments, evaluation notes and community maintenance.",
+        "amount": 25000,
+        "currency": "USD",
+        "frequency": "one-time",
+        "channels": [
+          "email"
+        ]
+      }
+    ]
+  }
+}
