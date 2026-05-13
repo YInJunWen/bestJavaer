@@ -23,7 +23,8 @@
         "url": "https://github.com/crisxuan/bestJavaer"
       },
       "licenses": [
-        "spdx:CC-BY-SA-4.0"
+        "spdx:CC-BY-SA-4.0",
+        "spdx:MIT"
       ],
       "tags": [
         "developer-tools",
