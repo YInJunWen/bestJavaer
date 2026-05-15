@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="./assets/cxuan-ai-labs.gif" alt="cxuan-ai-labs" width="100%">
+  <img src="./assets/cxuan-ai-labs.gif" alt="cxuan-ai-labs" width="70%">
 </div>
-
-# cxuan-ai-labs
 
 给所有关注旧 bestJavaer 的同学和朋友们致以衷心的感谢。
 

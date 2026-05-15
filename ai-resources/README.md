@@ -2,4 +2,4 @@
 
 | Logo | 推荐 |
 | --- | --- |
-| <a href="https://github.com/crisxuan/bestJavaer"><img src="https://github.com/crisxuan.png?size=96" width="64" alt="cxuan-ai-labs logo"></a> | [cxuan-ai-labs](https://github.com/crisxuan/bestJavaer)：一个由古法 Java 教程孵化出来的真实 AI 游乐场，记录 AI 文章、资源、实验和一些不装的 AI 垃圾。 |
+| <a href="https://github.com/ripienaar/free-for-dev"><img src="https://raw.githubusercontent.com/ripienaar/free-for-dev/master/logo.webp" width="64" alt="free-for.dev logo"></a> | [free-for.dev](https://github.com/ripienaar/free-for-dev)：开发者免费服务清单，找云服务、数据库、监控、CI、AI 等免费额度时很好用。 |
