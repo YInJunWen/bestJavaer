@@ -1,4 +1,8 @@
-# 一个古法时期的 Java 教程集，现已孵化为一个中登的 AI 游乐场。
+<div align="center">
+  <img src="./assets/cxuan-ai-labs.gif" alt="cxuan-ai-labs" width="100%">
+</div>
+
+# cxuan-ai-labs
 
 给所有关注旧 bestJavaer 的同学和朋友们致以衷心的感谢。
 
@@ -36,7 +40,7 @@
 
 这里会放我觉得值得收藏的 AI 资源推荐。
 
-我不太想把它做成普通的 `awesome-ai`，那种东西已经很多了。这里的资源最好是我真的看过、用过、认可、觉得有点东西的，并且会尽量写清楚它适合谁、能干什么、有什么坑。
+我不太想把它做成普通的 `awesome-ai`，那种东西已经很多了。这里会尽量保持轻一点，只放项目 logo 和一句我自己的推荐语。
 
 目前先放在 [ai-resources](./ai-resources/README.md)。
 

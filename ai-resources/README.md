@@ -1,55 +1,5 @@
 # AI Resources
 
-这里收录我觉得值得保存、值得一看、或者值得反复拿出来用的 AI 相关资源。
-
-我不太想把它做成普通的 `awesome-ai`。这种列表已经很多了，而且很多东西看起来很热闹，真正用起来未必有价值。
-
-这里更关注几件事：
-
-* 我是否真的看过、用过、研究过
-* 它适合谁
-* 它能解决什么问题
-* 它有什么坑
-* 它为什么值得被放进来
-
-## Projects
-
-### cxuan-ai-labs
-
-* GitHub: https://github.com/crisxuan/bestJavaer
-* GitLink: https://www.gitlink.org.cn/crisxuan/bestjavaer
-* 类型：AI 实验室、资源索引、开发者 AI 观察与实践记录
-* 状态：孵化中
-* 协议：文档内容使用 CC BY-SA 4.0，代码部分使用 MIT
-
-`cxuan-ai-labs` 是由旧版 `bestJavaer` 孵化出来的 AI 时代个人实验室。
-
-以前，`bestJavaer` 主要记录 Java、操作系统、计算机网络、并发、JVM、MySQL、Spring、面试题等古法编程时期的学习内容。现在，这些旧内容已经整体归档到 [archive-bestjavaer](../archive-bestjavaer/README.md)。
-
-新的主线会放在 AI 上：AI 文章、AI Playground、AI 资源推荐，以及一些自己做出来的 AI 垃圾。
-
-它不想成为一个 AI 权威教程，也不想成为一个普通资料搬运站。更准确地说，它是一个普通开发者在 AI 时代继续折腾、观察、试错和记录的地方。
-
-**适合谁：**
-
-* 想看真实 AI 使用体验的开发者
-* 想找中文 AI 资源和工具判断的读者
-* 对 AI 辅助开发、Agent、模型工具、AI 小实验感兴趣的人
-* 也想看失败案例、半成品和 AI 垃圾的人
-
-**能解决什么：**
-
-* 帮中文开发者少看一些空泛的 AI 热闹
-* 记录 AI 工具和资源的真实使用感受
-* 保存可复现的 AI 实验、提示词、流程和失败案例
-* 给后来者提供一些判断依据，而不只是链接清单
-
-**可能的坑：**
-
-* 目前项目还在转型初期，结构和内容会不断变化
-* 很多实验不一定有用，有些甚至会被放进 `ai-trash`
-* 这里不会保证每个内容都严肃、完整、成熟
-
-**为什么放进来：**
-
-因为它就是这个仓库的新起点。旧内容不是被删除，而是被归档；新的内容从这里开始慢慢长出来。
+| Logo | 推荐 |
+| --- | --- |
+| <a href="https://github.com/crisxuan/bestJavaer"><img src="https://github.com/crisxuan.png?size=96" width="64" alt="cxuan-ai-labs logo"></a> | [cxuan-ai-labs](https://github.com/crisxuan/bestJavaer)：一个由古法 Java 教程孵化出来的真实 AI 游乐场，记录 AI 文章、资源、实验和一些不装的 AI 垃圾。 |
